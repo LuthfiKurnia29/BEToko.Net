@@ -17,8 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="features\barang\Command\" />
-    <Folder Include="features\barang\Queries\ById\" />
+    <Folder Include="features\barang\queries\ById\" />
   </ItemGroup>
 
   <PropertyGroup>

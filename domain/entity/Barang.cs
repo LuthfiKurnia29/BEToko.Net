@@ -11,7 +11,7 @@ namespace domain.entity
     {
         [Key]
         public Guid IdBarang { get; set; }
-        public string? Gambar { get; set; }
+        public string? Gambar { get; set; } = string.Empty;
         public string NamaBarang { get; set; }
         public int Stok { get; set; }
         public float Harga { get; set; }

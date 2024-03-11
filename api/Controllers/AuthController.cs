@@ -12,7 +12,6 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class AuthController : BaseController
     {
-
         [HttpPost("/register")]
         public async Task<ActionResult<string>> Register(RegisterCommand command, CancellationToken cancellationToken)
         {

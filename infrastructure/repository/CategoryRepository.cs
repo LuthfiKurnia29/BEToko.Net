@@ -19,9 +19,8 @@ public class CategoryRepository : ICategoryRepository
         await _context.SaveChangesAsync();
     }
 
-    public async Task<List<Kategori>> GetByCategory(Guid idKategori)
+    public async Task<List<Kategori>> GetAllCategory()
     {
-        var category = await _context.Kategoris.Where(x => x.IdKategori == idKategori).Include(x => x.Barangs).ToListAsync();
-        return category;
+        return await _context.Kategoris.ToListAsync();
     }
 }

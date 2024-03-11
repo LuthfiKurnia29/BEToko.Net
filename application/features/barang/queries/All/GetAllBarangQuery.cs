@@ -3,7 +3,7 @@ using MediatR;
 
 namespace application.features.barang.Queries.All;
 
-public class GetAllQuery : IRequest<List<Barang>>
+public class GetAllBarangQuery : IRequest<List<Barang>>
 {
     
 }
