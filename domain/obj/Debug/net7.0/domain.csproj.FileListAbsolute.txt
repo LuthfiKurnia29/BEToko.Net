@@ -1,0 +1,12 @@
+D:\Folder Kerja\Plan\domain\bin\Debug\net7.0\domain.deps.json
+D:\Folder Kerja\Plan\domain\bin\Debug\net7.0\domain.dll
+D:\Folder Kerja\Plan\domain\bin\Debug\net7.0\domain.pdb
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.csproj.AssemblyReference.cache
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.AssemblyInfoInputs.cache
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.AssemblyInfo.cs
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.csproj.CoreCompileInputs.cache
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.dll
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\refint\domain.dll
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\domain.pdb
+D:\Folder Kerja\Plan\domain\obj\Debug\net7.0\ref\domain.dll

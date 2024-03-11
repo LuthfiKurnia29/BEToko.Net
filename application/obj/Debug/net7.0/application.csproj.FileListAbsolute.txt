@@ -1,0 +1,17 @@
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\application.deps.json
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\application.dll
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\application.pdb
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\domain.dll
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\domain.pdb
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.csproj.AssemblyReference.cache
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.AssemblyInfoInputs.cache
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.AssemblyInfo.cs
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.csproj.CoreCompileInputs.cache
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.csproj.CopyComplete
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.dll
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\refint\application.dll
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.pdb
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\ref\application.dll
+D:\Folder Kerja\Plan\application\bin\Debug\net7.0\application.runtimeconfig.json
+D:\Folder Kerja\Plan\application\obj\Debug\net7.0\application.genruntimeconfig.cache
